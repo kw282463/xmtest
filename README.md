@@ -1,4 +1,4 @@
-# xmshop
+# shop
 
 A new Flutter project.
 
